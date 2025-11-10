@@ -1,0 +1,23 @@
+{
+  "countries": [
+    {
+      "countryCode": "US",
+      "name": "United States",
+      "selected": false,
+      "connections": []
+    },
+    {
+      "countryCode": "CN",
+      "name": "China",
+      "selected": false,
+      "connections": []
+    },
+    {
+      "countryCode": "DE",
+      "name": "Germany",
+      "selected": false,
+      "connections": []
+    }
+  ],
+  "supplyChainFlows": []
+}
