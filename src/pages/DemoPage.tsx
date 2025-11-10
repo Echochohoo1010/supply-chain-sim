@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { NetworkIcon } from '../constants';
+import { NetworkIcon } from '../utils/constants';
 
 const DemoPage: React.FC = () => {
   return (
